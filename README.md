@@ -6,3 +6,8 @@ using namespace std;
 int main() 
 {
 ofstream file("sum.txt");
+int sum=0''
+for(int i=0; i<=50;i++)
+{
+sum =i;
+)
