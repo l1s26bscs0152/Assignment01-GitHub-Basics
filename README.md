@@ -10,4 +10,7 @@ int sum=0''
 for(int i=0; i<=50;i++)
 {
 sum =i;
-)
+}
+file<<"sum =" << sum;
+file.close();
+
