@@ -14,3 +14,7 @@ sum =i;
 file<<"sum =" << sum;
 file.close();
 
+cout <<"sum="<<sum;
+cout<<"\ndata saved successfully";
+return 0;
+}
